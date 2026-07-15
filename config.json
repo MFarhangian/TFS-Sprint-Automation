@@ -1,0 +1,18 @@
+{
+  "serverUrl": "https://azure.okco.ir",
+  "collection": "Ofoq Kourosh",
+  "project": "ImprovementOfInfrastructure",
+  "assignedTo": "OKCO\\Farhangian.Mohsen",
+  "mentionUser": "OKCO\\Raahi.Marjan",
+  "mentionDisplayName": "Raahi.Marjan",
+  "mentionComment": "",
+  "iterationPath": "ImprovementOfInfrastructure\\sprint 9-1405",
+  "parentStateFilter": "Radius",
+  "parentWorkItemType": "Product Backlog Item",
+  "childWorkItemType": "Task",
+  "estimateField": "Microsoft.VSTS.Scheduling.OriginalEstimate",
+  "estimateValue": 2,
+  "rmLog1Field": "Custom.RMLog1",
+  "rmLog1Value": 2,
+  "parentIds": [87776, 104718, 104719, 58200]
+}
